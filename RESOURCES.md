@@ -25,8 +25,9 @@ A collection of helpful resources.
 * [npm Style Guide](https://docs.npmjs.com/misc/coding-style)
 * [Style Guide Resources](http://styleguides.io/)
 
-### RegEx
+### Regular Expressions
 * [RegEx Playground](http://regexr.com/)
+* [RegEx Tester and Debugger](https://regex101.com/)
 
 ### Markdown
 * [Markdown Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
