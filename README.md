@@ -32,6 +32,9 @@ A collection of helpful resources.
 * [RegEx Playground](http://regexr.com/)
 * [RegEx Tester and Debugger](https://regex101.com/)
 
+### Command Line
+* [Command Line Cheatsheet (Mac)](https://github.com/0nn0/terminal-mac-cheatsheet)
+
 ### Markdown
 * [Markdown Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
