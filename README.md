@@ -3,6 +3,8 @@ A collection of helpful resources.
 
 ### HTML
 * [Code Cleaner](https://dirtymarkup.com/)
+* [Code Validator](https://validator.w3.org/)
+* [HTML5 Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
 
 ### CSS
 * [30 CSS Selectors to Memorize](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
