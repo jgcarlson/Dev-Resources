@@ -8,6 +8,7 @@ A collection of helpful resources.
 * [HTML5 New Elements](https://www.w3schools.com/html/html5_new_elements.asp)
 
 ### CSS
+* [10 Essential CSS Selectors](https://www.webdesignerdepot.com/2013/08/10-css-selectors-you-shouldnt-code-without/)
 * [30 CSS Selectors to Memorize](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 * [CSS Beautifier](http://csscomb.com/online)
 * [CSS3 Transitions, Transforms, Animation, and Filters](http://css3.bradshawenterprises.com/)
