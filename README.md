@@ -11,6 +11,7 @@ A collection of helpful resources.
 * [10 Essential CSS Selectors](https://www.webdesignerdepot.com/2013/08/10-css-selectors-you-shouldnt-code-without/)
 * [30 CSS Selectors to Memorize](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 * [CSS Beautifier](http://csscomb.com/online)
+* [normalize.css](https://github.com/necolas/normalize.css/): Normalizes formatting. A good CSS reset alternative.
 * [CSS3 Transitions, Transforms, Animation, and Filters](http://css3.bradshawenterprises.com/)
 * [Autoprefixer](https://github.com/postcss/autoprefixer)
 * [CSS3 Generator](http://css3generator.com/)
