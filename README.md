@@ -18,6 +18,7 @@ A collection of helpful resources.
 * [Cursor Showcase](http://css-cursor.techstream.org/)
 * [Fluid Grid System](http://www.designinfluences.com/fluid960gs/)
 * [Color Scheme Generator](https://coolors.co/)
+* [Center Anything](http://howtocenterincss.com/)
 
 ### Javascript
 * [JS Beautifier](http://jsbeautifier.org/)
