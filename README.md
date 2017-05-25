@@ -46,6 +46,6 @@ A collection of helpful resources.
 
 ### Extras
 * [Toolbox](http://thetoolbox.cc/): Good stuff.
-* [Lorem Ipsum Generator](http://generator.lorem-ipsum.info/)
+* [Fillerati](http://www.fillerati.com/): Excerpts from classics. Much better than fake Latin!
 * [Code Snippets](https://css-tricks.com/snippets/)
 * [Web Developer Project Checklist](http://webdevchecklist.com/)
