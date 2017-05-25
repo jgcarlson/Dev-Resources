@@ -18,6 +18,7 @@ A collection of helpful resources.
 * [Cursor Showcase](http://css-cursor.techstream.org/)
 * [Fluid Grid System](http://www.designinfluences.com/fluid960gs/)
 * [Color Scheme Generator](https://coolors.co/)
+* [Paletton](http://paletton.com/): Another good color scheme generator.
 * [Center Anything](http://howtocenterincss.com/)
 
 ### Javascript
@@ -48,5 +49,6 @@ A collection of helpful resources.
 * [Toolbox](http://thetoolbox.cc/): Good stuff.
 * [Fillerati](http://www.fillerati.com/): Excerpts from classics. Much better than fake Latin!
 * [Picture Placeholder Generator](http://lorempixel.com/)
+* [Unsplash](https://unsplash.com/): Free hi res images.
 * [Code Snippets](https://css-tricks.com/snippets/)
 * [Web Developer Project Checklist](http://webdevchecklist.com/)
