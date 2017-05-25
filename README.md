@@ -47,5 +47,6 @@ A collection of helpful resources.
 ### Extras
 * [Toolbox](http://thetoolbox.cc/): Good stuff.
 * [Fillerati](http://www.fillerati.com/): Excerpts from classics. Much better than fake Latin!
+* [Picture Placeholder Generator](http://lorempixel.com/)
 * [Code Snippets](https://css-tricks.com/snippets/)
 * [Web Developer Project Checklist](http://webdevchecklist.com/)
