@@ -30,7 +30,7 @@ A collection of helpful resources.
 
 ### jQuery
 * [Table Sorter](http://tablesorter.com/docs/): A jQuery table sorter.
-* [Tipped](http://projects.nickstakenburg.com/tipped): A jQuery tooltip tool with numerous options.
+* [Tipped](http://www.tippedjs.com/): A jQuery tooltip tool with numerous options.
 * [Tipsy](http://onehackoranother.com/projects/jquery/tipsy/): A Facebook-style tooltip plugin for jQuery.
 
 ### Style Guides
