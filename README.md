@@ -32,7 +32,7 @@ A collection of helpful resources.
 ### Web Design Frameworks
 * [Foundation](https://foundation.zurb.com/): "The most advanced responsive front-end framework in the world."
 * [Bootstrap](https://getbootstrap.com/)
-* * [Bootsnipp](https://bootsnipp.com/): A great Bootstrap element gallery.
+  * [Bootsnipp](https://bootsnipp.com/): A great Bootstrap element gallery.
 
 ### jQuery
 * [Table Sorter](http://tablesorter.com/docs/): A jQuery table sorter.
