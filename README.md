@@ -63,6 +63,7 @@ A collection of helpful resources.
 #### Design Layout
 * [Vertical Rhythm](https://www.smashingmagazine.com/2012/12/css-baseline-the-good-the-bad-and-the-ugly/)
 #### Font Sizing in RWD
+* [10 Principles of Web Typography](https://www.smashingmagazine.com/2009/03/10-principles-for-readable-web-typography/)
 * [EM + REM](https://webdesign.tutsplus.com/tutorials/comprehensive-guide-when-to-use-em-vs-rem--cms-23984)
 * [When to use what: px, rem, and em](https://webdesign.tutsplus.com/tutorials/comprehensive-guide-when-to-use-em-vs-rem--cms-23984)
 * [Viewport Sized Typography](https://www.smashingmagazine.com/2016/05/fluid-typography/)
