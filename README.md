@@ -33,6 +33,7 @@ A collection of helpful resources.
 * [Foundation](https://foundation.zurb.com/): "The most advanced responsive front-end framework in the world."
 * [Bootstrap](https://getbootstrap.com/)
   * [Bootsnipp](https://bootsnipp.com/): A great Bootstrap element gallery.
+* [Materialize](http://materializecss.com/): A framework based on Google Material Design.
 
 ### jQuery
 * [Table Sorter](http://tablesorter.com/docs/): A jQuery table sorter.
