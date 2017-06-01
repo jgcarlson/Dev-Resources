@@ -21,6 +21,7 @@ A collection of helpful resources.
 * [Color Scheme Generator](https://coolors.co/)
 * [Paletton](http://paletton.com/): Another good color scheme generator.
 * [Center Anything](http://howtocenterincss.com/)
+* [Golden Ratio Typography](https://pearsonified.com/typography/)
 
 ### Javascript
 * [JS Beautifier](http://jsbeautifier.org/)
