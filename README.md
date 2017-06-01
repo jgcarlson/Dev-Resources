@@ -29,6 +29,9 @@ A collection of helpful resources.
 * [Callback Hell](http://callbackhell.com/): A great guide to callbacks.
 * [Angular Directives](http://angular-js.in/)
 
+### Web Design Frameworks
+* [Foundation](https://foundation.zurb.com/): "The most advanced responsive front-end framework in the world."
+
 ### jQuery
 * [Table Sorter](http://tablesorter.com/docs/): A jQuery table sorter.
 * [Tipped](http://www.tippedjs.com/): A jQuery tooltip tool with numerous options.
