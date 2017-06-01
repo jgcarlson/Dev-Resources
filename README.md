@@ -58,3 +58,9 @@ A collection of helpful resources.
 * [Unsplash](https://unsplash.com/): Free hi res images.
 * [Code Snippets](https://css-tricks.com/snippets/)
 * [Web Developer Project Checklist](http://webdevchecklist.com/)
+
+### Reading List
+#### Font Sizing in RWD
+* [EM + REM](https://webdesign.tutsplus.com/tutorials/comprehensive-guide-when-to-use-em-vs-rem--cms-23984)
+* [When to use what: px, rem, and em](https://webdesign.tutsplus.com/tutorials/comprehensive-guide-when-to-use-em-vs-rem--cms-23984)
+* [Viewport Sized Typography](https://css-tricks.com/viewport-sized-typography/)
