@@ -63,4 +63,4 @@ A collection of helpful resources.
 #### Font Sizing in RWD
 * [EM + REM](https://webdesign.tutsplus.com/tutorials/comprehensive-guide-when-to-use-em-vs-rem--cms-23984)
 * [When to use what: px, rem, and em](https://webdesign.tutsplus.com/tutorials/comprehensive-guide-when-to-use-em-vs-rem--cms-23984)
-* [Viewport Sized Typography](https://css-tricks.com/viewport-sized-typography/)
+* [Viewport Sized Typography](https://www.smashingmagazine.com/2016/05/fluid-typography/)
