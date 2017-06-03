@@ -1,4 +1,8 @@
 # A collection of interesting APIs.
+### AI
+* [Face++](https://www.faceplusplus.com/): Facial recognition.
+* [Clarifai](https://www.clarifai.com/): Image and video recognition.
+* [API.AI](https://api.ai): Natural language processing.
 ### Development and Testing
 * [JSONPlaceholder](https://jsonplaceholder.typicode.com/): JSON data for testing and verification.
 * [Random User Generator](https://randomuser.me/): Generates random user data.
@@ -10,10 +14,6 @@
 ### Government Data
 * [data.gov](https://www.data.gov/developers/): A compendium of data compiled by the US government.
 * [Open Government Data (OGD) Platform, India](https://data.gov.in/)
-### AI
-* [Face++](https://www.faceplusplus.com/): Facial recognition.
-* [Clarifai](https://www.clarifai.com/): Image and video recognition.
-* [API.AI](https://api.ai): Natural language processing.
 ### Geocoding
 * [Geocode.xyz](https://geocode.xyz/)
 * [Google Maps](https://developers.google.com/maps/)
