@@ -6,6 +6,7 @@ A collection of helpful resources.
 * [Code Validator](https://validator.w3.org/)
 * [HTML5 Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
 * [HTML5 New Elements](https://www.w3schools.com/html/html5_new_elements.asp)
+* [Boilerplate](https://github.com/h5bp/html5-boilerplate)
 * [Balsamiq](https://balsamiq.com/): A great wireframe and concept-testing platform.
 
 ### CSS
