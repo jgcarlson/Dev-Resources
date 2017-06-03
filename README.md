@@ -24,7 +24,7 @@ A collection of helpful resources.
 * [Center Anything](http://howtocenterincss.com/)
 * [Golden Ratio Typography](https://pearsonified.com/typography/)
 * [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/): A collection of patterns.
-##### [CSS Preprocessors]
+##### CSS Preprocessors
 * [Less](http://lesscss.org/features/)
 
 ### Javascript
