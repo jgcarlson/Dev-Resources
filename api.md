@@ -23,3 +23,5 @@
 * [Lob.com](https://lob.com/): US address verification.
 * [mailboxlayer](https://mailboxlayer.com/): Email address verification.
 * [numverify](https://numverify.com/): International phone number verification and look-up.
+### Extras
+* [APIs.guru](https://apis.guru/browse-apis/): A directory of open APIs.
