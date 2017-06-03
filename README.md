@@ -34,6 +34,7 @@ A collection of helpful resources.
 ### Web Design Frameworks
 * [Foundation](https://foundation.zurb.com/): "The most advanced responsive front-end framework in the world."
 * [Bootstrap](https://getbootstrap.com/)
+  * [Bootstrap Components](http://getbootstrap.com/components/)
   * [Bootsnipp](https://bootsnipp.com/): A great Bootstrap element gallery.
 * [Materialize](http://materializecss.com/): A framework based on Google Material Design.
 
