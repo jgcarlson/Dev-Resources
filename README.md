@@ -23,6 +23,7 @@ A collection of helpful resources.
 * [Paletton](http://paletton.com/): Another good color scheme generator.
 * [Center Anything](http://howtocenterincss.com/)
 * [Golden Ratio Typography](https://pearsonified.com/typography/)
+* [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/): A collection of patterns.
 
 ### Javascript
 * [JS Beautifier](http://jsbeautifier.org/)
