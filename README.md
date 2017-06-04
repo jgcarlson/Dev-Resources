@@ -39,6 +39,7 @@ A collection of helpful resources.
   * [Bootstrap Components](http://getbootstrap.com/components/)
   * [Bootsnipp](https://bootsnipp.com/): A great Bootstrap element gallery.
 * [Materialize](http://materializecss.com/): A framework based on Google Material Design.
+* [Skeleton](http://getskeleton.com/): A minimal CSS boilerplate with a great grid system.
 
 ### jQuery
 * [Table Sorter](http://tablesorter.com/docs/): A jQuery table sorter.
