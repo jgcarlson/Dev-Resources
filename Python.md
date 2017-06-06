@@ -6,3 +6,5 @@
 * [Data Structures](https://docs.python.org/2/tutorial/datastructures.html)
 ### Style Guides
 * [Google Style Guide](http://google.github.io/styleguide/pyguide.html)
+### Libraries
+* [Requests](http://docs.python-requests.org/en/master/): Super helpful data tool.
