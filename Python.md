@@ -1,4 +1,6 @@
 # Python
+### Libraries
+* [Awesome Python](https://awesome-python.com/#algorithms-and-design-patterns): A collection of great libraries.
 ### Common Operations
 * [Built-in Functions](https://docs.python.org/2/library/functions.html)
 * [Built-in Types](https://docs.python.org/2/library/stdtypes.html)
