@@ -1,5 +1,7 @@
 # Python
-### Libraries
+### Guides
+* [Full Stack Python](https://www.fullstackpython.com/): An intermediate guide to Python projects.
+### Lists
 * [Awesome Python](https://awesome-python.com/#algorithms-and-design-patterns): A collection of great libraries.
 * [(Another) Awesome Python](https://python.libhunt.com/): Another collection of great libraries.
 ### Common Operations
