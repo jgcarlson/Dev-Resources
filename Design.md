@@ -9,3 +9,4 @@
 * [Mazwai](http://mazwai.com/#/): Free moving photos (videos).
 ### UX
 * [UX Design Weekly](http://uxdesignweekly.com/): A great collection and analysis of UX stuff.
+* [Design Seeds](https://www.design-seeds.com/): Excellent color sets.
